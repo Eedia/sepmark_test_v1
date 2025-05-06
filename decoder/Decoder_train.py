@@ -25,8 +25,6 @@ DETECTOR_MODEL_PATH = "./saved_models/detector_model.pth"
 RESULTS_DIR = "./results"
 MAX_SAMPLES = 1000   # 최대 100개 이미지만 사용
 
-
-
 # 경로 및 디렉터리 설정
 ENCODED_DIR = "../test_output_encoded_val_128"  # 워터마크가 삽입된 이미지 디렉토리
 ORIGINAL_DIR = "../dataset/val_128"              # 원본 이미지 디렉토리
