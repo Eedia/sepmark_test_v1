@@ -16,3 +16,4 @@ decoder/saved_models/
 decoder/temp_frames/
 decoder/video_results/
 results/
+.gitignore
